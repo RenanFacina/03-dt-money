@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-28T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburger",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educacão",
+      "price": 1980,
+      "createdAt": "2022-07-30T19:24:44.505Z"
+    },
+    {
+      "description": "Projeto",
+      "price": 1000,
+      "category": "DEV",
+      "type": "income",
+      "createdAt": "2024-07-25T14:23:07.015Z",
+      "id": 4
+    },
+    {
+      "description": "Despesa",
+      "price": 500,
+      "category": "Misc",
+      "type": "outcome",
+      "createdAt": "2024-07-25T14:23:44.808Z",
+      "id": 5
+    },
+    {
+      "description": "Novo PC",
+      "price": 3000,
+      "category": "Compra",
+      "type": "outcome",
+      "createdAt": "2024-07-25T16:39:58.921Z",
+      "id": 6
+    }
+  ]
+}
